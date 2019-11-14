@@ -22,48 +22,48 @@ img {
 
 a.one:link {
      text-align: center;
-     color: blue;
+     color: white;
      font-size: 1.1em;
 }
 
 a.one:visited {
      text-align: center;
-     color: #0000ff;
+     color: #73AD21;
      font-size: 1.1em;
 }
 
 a.two:link {
      text-align: center;
-     color: blue;
+     color: white;
      font-size: 1.1em;
 }
 
 a.two:visited {
      text-align: center;
-     color: #0000ff;
+     color: #73AD21;
      font-size: 1.1em;
 }
 
 a.three:link {
      text-align: center;
-     color: blue;
+     color: white;
      font-size: 1.1em;
 }
 
 a.three:visited {
      text-align: center;
-     color: #0000ff;
+     color: #73AD21;
      font-size: 1.1em;
 }
 
 a.four:link {
      text-align: center;
-     color: blue;
+     color: white;
      font-size: 1.1em;
 }
 
 a.four:visited {
      text-align: center;
-     color: #0000ff;
+     color: #73AD21;
      font-size: 1.1em;
 }
