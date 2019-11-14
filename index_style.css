@@ -20,50 +20,38 @@ img {
    border-radius: 8px;
  }
 
-a.one:link {
-     text-align: center;
-     color: white;
-     font-size: 1.1em;
+.div1 { 
+      font-size: 1.1em;
+      text-align: center;
 }
 
-a.one:visited {
-     text-align: center;
-     color: #73AD21;
-     font-size: 1.1em;
+.div2 {
+      font-size: 1.1em;
+      text-align: center;
 }
 
-a.two:link {
-     text-align: center;
-     color: white;
-     font-size: 1.1em;
+.div3 {
+      font-size: 1.1em;
+      text-align: center;
 }
 
-a.two:visited {
-     text-align: center;
-     color: #73AD21;
-     font-size: 1.1em;
+.div4 {
+      font-size: 1.1em;
+      text-align: center;
 }
 
-a.three:link {
-     text-align: center;
-     color: white;
-     font-size: 1.1em;
-}
+a.one:link { color: white; }
 
-a.three:visited {
-     text-align: center;
-     color: #73AD21;
-     font-size: 1.1em;
-}
+a.one:visited { color: #73AD21; }
 
-a.four:link {
-     text-align: center;
-     color: white;
-     font-size: 1.1em;
-}
+a.two:link { color: white; }
 
-a.four:visited {
-     text-align: center;
-     color: #73AD21;
-     font-size: 1.1em;
-}
+a.two:visited { color: #73AD21; }
+
+a.three:link { color: white; }
+
+a.three:visited { color: #73AD21; }
+
+a.four:link { color: white; }
+
+a.four:visited { color: #73AD21; }
