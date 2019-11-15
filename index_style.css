@@ -6,12 +6,14 @@ h1 {
   text-align: center; 
   color: #73AD21;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+  font-size: 3em;
 }
 
 h2 { 
   text-align: center;
   color: #73AD21;
-  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 2em; 
 }
 
 img { 
