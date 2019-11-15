@@ -45,18 +45,18 @@ img {
       color: white;
 }
 
-a.one:link { color: white }
+a.one:link { color: red; }
 
 a.one:hover { color: #73AD21 }
 
-a.two:link { color: white }
+a.two:link { color: red; }
 
 a.two:hover { color: #73AD21 }
 
-a.three:link { color: white }
+a.three:link { color: red; }
 
 a.three:hover { color: #73AD21 }
 
-a.four:link { color: white }
+a.four:link { color: red; }
 
 a.four:hover { color: #73AD21 }
