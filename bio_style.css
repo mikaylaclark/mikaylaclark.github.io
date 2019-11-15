@@ -5,16 +5,19 @@ body {
 h1 { 
 text-align: center;
 color: #C36849;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 h2 {
 text-align: center;
 color: #ff8c69;
 border: 3px solid #ff8c69;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 h3 {
 text-align: center;
 color: #ff8c69;
 border: 3px solid #ff8c69; 
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
