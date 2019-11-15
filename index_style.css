@@ -18,54 +18,47 @@ img {
    border-radius: 8px;
  }
 
-.div1 { 
-      font-size: 1.5em;
+.dropbtn {
+      background-color: white;
+      color: green;
+      padding: 16px;
+      font-size: 16px;
+      border: 3px solid green;
+      font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.DropDown {
+      position: relative;
+      display: inline-block;
+}
+
+.dropdown-content { 
+      font-size: 16px;
       text-align: center;
       font-weight: 900;
       font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
-.div2 {
-      font-size: 1.5em;
-      text-align: center;
-      font-weight: 900;
-      font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
-}
+a.one:link { color: green; }
 
-.div3 {
-      font-size: 1.5em;
-      text-align: center;
-      font-weight: 900;
-      font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
-}
-
-.div4 {
-      font-size: 1.5em;
-      text-align: center;
-      font-weight: 900;
-      font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
-}
-
-a.one:link { color: white; }
-
-a.one:visited { color: white; }
+a.one:visited { color: green; }
 
 a.one:hover { color: #73AD21 }
 
-a.two:link { color: white; }
+a.two:link { color: green; }
 
-a.two:visited { color: white; }
+a.two:visited { color: green; }
 
 a.two:hover { color: #73AD21 }
 
-a.three:link { color: white; }
+a.three:link { color: green; }
 
-a.three:visited { color: white; }
+a.three:visited { color: green; }
 
 a.three:hover { color: #73AD21 }
 
-a.four:link { color: white; }
+a.four:link { color: green; }
 
-a.four:visited { color: white; }
+a.four:visited { color: green; }
 
 a.four:hover { color: #73AD21 }
