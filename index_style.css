@@ -22,37 +22,37 @@ img {
  }
 
 .div1 { 
-      font-size: 1.1em;
+      font-size: 1.5em;
       text-align: center;
 }
 
 .div2 {
-      font-size: 1.1em;
+      font-size: 1.5em;
       text-align: center;
 }
 
 .div3 {
-      font-size: 1.1em;
+      font-size: 1.5em;
       text-align: center;
 }
 
 .div4 {
-      font-size: 1.1em;
+      font-size: 1.5em;
       text-align: center;
 }
 
 a.one:link { color: white; }
 
-a.one:visited { color: #73AD21; }
+a.one:hover { color: #73AD21; }
 
 a.two:link { color: white; }
 
-a.two:visited { color: #73AD21; }
+a.two:hover { color: #73AD21; }
 
 a.three:link { color: white; }
 
-a.three:visited { color: #73AD21; }
+a.three:hover { color: #73AD21; }
 
 a.four:link { color: white; }
 
-a.four:visited { color: #73AD21; }
+a.four:hover { color: #73AD21; }
