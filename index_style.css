@@ -43,16 +43,24 @@ img {
 
 a.one:link { color: white; }
 
+a.one:visited { color: white; }
+
 a.one:hover { color: #73AD21 }
 
 a.two:link { color: white; }
+
+a.two:visited { color: white; }
 
 a.two:hover { color: #73AD21 }
 
 a.three:link { color: white; }
 
+a.three:visited { color: white; }
+
 a.three:hover { color: #73AD21 }
 
 a.four:link { color: white; }
+
+a.four:visited { color: white; }
 
 a.four:hover { color: #73AD21 }
