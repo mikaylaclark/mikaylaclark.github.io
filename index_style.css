@@ -24,39 +24,35 @@ img {
 .div1 { 
       font-size: 1.5em;
       text-align: center;
-      color : white;
 }
 
 .div2 {
       font-size: 1.5em;
       text-align: center;
-      color: white;
 }
 
 .div3 {
       font-size: 1.5em;
       text-align: center;
-      color: white;
 }
 
 .div4 {
       font-size: 1.5em;
       text-align: center;
-      color: white;
 }
 
-a.one:link { color: red; }
+a.one:link { color: white; }
 
 a.one:hover { color: #73AD21 }
 
-a.two:link { color: red; }
+a.two:link { color: white; }
 
 a.two:hover { color: #73AD21 }
 
-a.three:link { color: red; }
+a.three:link { color: white; }
 
 a.three:hover { color: #73AD21 }
 
-a.four:link { color: red; }
+a.four:link { color: white; }
 
 a.four:hover { color: #73AD21 }
