@@ -24,21 +24,25 @@ img {
 .div1 { 
       font-size: 1.5em;
       text-align: center;
+      font-weight: bold;
 }
 
 .div2 {
       font-size: 1.5em;
       text-align: center;
+      font-weight: bold;
 }
 
 .div3 {
       font-size: 1.5em;
       text-align: center;
+      font-weight: bold;
 }
 
 .div4 {
       font-size: 1.5em;
       text-align: center;
+      font-weight: bold;
 }
 
 a.one:link { color: white; }
