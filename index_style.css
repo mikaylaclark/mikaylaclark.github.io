@@ -5,11 +5,13 @@ body {
 h1 { 
   text-align: center; 
   color: #73AD21;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 h2 { 
   text-align: center;
   color: #73AD21;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 img { 
@@ -25,24 +27,28 @@ img {
       font-size: 1.5em;
       text-align: center;
       font-weight: 900;
+      font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 .div2 {
       font-size: 1.5em;
       text-align: center;
       font-weight: 900;
+      font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 .div3 {
       font-size: 1.5em;
       text-align: center;
       font-weight: 900;
+      font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 .div4 {
       font-size: 1.5em;
       text-align: center;
       font-weight: 900;
+      font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
 }
 
 a.one:link { color: white; }
