@@ -41,18 +41,18 @@ img {
       text-align: center;
 }
 
-a.one:link { color: white; }
+a.one:link { color: white }
 
-a.one:hover { color: #73AD21; }
+a.one:hover { color: #73AD21 }
 
-a.two:link { color: white; }
+a.two:link { color: white }
 
-a.two:hover { color: #73AD21; }
+a.two:hover { color: #73AD21 }
 
-a.three:link { color: white; }
+a.three:link { color: white }
 
-a.three:hover { color: #73AD21; }
+a.three:hover { color: #73AD21 }
 
-a.four:link { color: white; }
+a.four:link { color: white }
 
-a.four:hover { color: #73AD21; }
+a.four:hover { color: #73AD21 }
