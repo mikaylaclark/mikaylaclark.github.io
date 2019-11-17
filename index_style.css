@@ -1,5 +1,9 @@
 body {
     background-image: url("640field.jpg");
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 150px;
 }
 
 h1 { 
