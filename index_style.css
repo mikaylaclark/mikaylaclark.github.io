@@ -38,3 +38,15 @@ h1 {
 
 img {width: 100%;}
 
+h2 {
+   text-align: center;
+   color: #b893ad;
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+   font-size: 1em;
+}
+
+p {
+  text-align: center;
+  color: black;
+  font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
