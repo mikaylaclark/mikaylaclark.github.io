@@ -1,15 +1,22 @@
-body {
-    background-image: url("640field.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    width: 100%;
-    height: 150px;
-    background-position: center;
+body {background-color: #F5F5F5;}
+
+nav.navigation {
+   background-color: #333;
+}
+
+nav.nav-content a {
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+   color: white;
+   text-align: center;
+}
+
+nav.nav-content a:hover {
+   background-color: #111;
 }
 
 h1 { 
   text-align: center; 
-  color: #73AD21;
+  color: black;
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
   font-size: 3em;
 }
@@ -23,57 +30,3 @@ img {
    border-radius: 8px;
  }
 
-.dropbtn {
-      background-color: white;
-      color: green;
-      padding: 16px;
-      font-size: 16px;
-      border: 3px solid green;
-      font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
-}
-
-.DropDown {
-      position: fixed;
-      top: 0;
-      left: 0;
-      display: inline-block;
-}
-
-.dropdown-content { 
-      font-size: 16px;
-      color: green;
-      text-align: center;
-      font-weight: 900;
-      font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-      display: none;
-      position: absolute;
-      background-color: white;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
-      z-index: 1;
-}
-
-.dropdown-content a:link { 
-                 color: green;
-                 padding: 12px 16px;
-                 display: block;
-}
-
-.dropdown-content a:visited { 
-                 color: green;
-                 padding: 12px 16px;
-                 display: block;
-}
-
-.dropdown-content a:hover { 
-                 color: #73AD21;
-                 background-color: #ddd;
-}
-
-.DropDown:hover .dropdown-content {
-                 display: block;
-}
-
-.DropDown:hover .dropbtn {
-                 background-color: #3e8e41;
-}
