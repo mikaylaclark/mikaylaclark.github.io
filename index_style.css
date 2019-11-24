@@ -26,6 +26,10 @@ li a:hover {
    background-color: #111;
 }
 
+.active {
+    background-color: #b893ad;
+}
+
 h1 { 
   text-align: center; 
   color: black;
