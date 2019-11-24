@@ -40,7 +40,7 @@ img {width: 100%;}
 
 h2 {
    text-align: center;
-   color: #b893ad;
+   color: #8d6d83;
    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
    font-size: 2em;
 }
@@ -49,4 +49,8 @@ p {
   text-align: center;
   color: black;
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+footer {
+       background-color: #8d6d83;
 }
