@@ -1,16 +1,28 @@
 body {background-color: #F5F5F5;}
 
-nav.navigation {
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
    background-color: #333;
+   
 }
 
-nav.nav-content a {
-   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+li {
+   float: left;
+}
+
+li a {
+   display: block;
    color: white;
    text-align: center;
+   padding: 14 px 16 px;
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+   text-decoration: none;
 }
 
-nav.nav-content a:hover {
+li a:hover {
    background-color: #111;
 }
 
