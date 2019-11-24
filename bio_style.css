@@ -2,6 +2,36 @@ body {
      background-color: #F5F5F5;
 }
 
+ul {
+   list-style-type: none;
+   margin: 10px;
+   padding: 0;
+   height: 20px;
+   overflow: hidden;
+   background-color: #333;
+}
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+   text-decoration: none;
+}
+
+li a:hover {
+   background-color: #111;
+}
+
+.active {
+    background-color: #b893ad;
+}
+
 h1 { 
 text-align: center;
 color: black;
