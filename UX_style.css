@@ -37,6 +37,12 @@ h1 {
    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
+h2 {
+   text-align: center;
+   color: #b893ad;
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
 h4 {
    text-align: center;
    color: #b893ad;
@@ -51,4 +57,9 @@ img {
 
 p {
   text-align: center;
+}
+
+div {
+   text-align: center;
+   color: #b893ad;
 }
