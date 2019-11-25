@@ -39,6 +39,7 @@ h1 {
 
 h2 {
    text-align: center;
+   font-size: 2em;
    color: #b893ad;
    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
@@ -46,6 +47,7 @@ h2 {
 h4 {
    text-align: center;
    color: #b893ad;
+   font-size: 2em;
    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
