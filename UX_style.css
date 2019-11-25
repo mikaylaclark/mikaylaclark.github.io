@@ -52,17 +52,20 @@ h4 {
 }
 
 img {
+    display: inline-block;
     width: 275px;
     height: 250px;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+.images {
+        text-align: center;
 }
 
 p {
   text-align: center;
 }
 
-div {
+.design-prob {
    text-align: center;
    color: #b893ad;
 }
