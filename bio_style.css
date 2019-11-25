@@ -37,3 +37,12 @@ color: black;
 font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
 }
 
+img {
+    left-margin: auto;
+    right-margin: auto;
+    border-radius: 8px;
+    border: 3px solid #8d6d83;
+    padding: 5px;
+    width: 225px;
+    height: 275px;
+}
