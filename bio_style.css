@@ -3,7 +3,6 @@ body {
 }
 
 ul {
-   position: fixed;
    list-style-type: none;
    margin: 10px;
    padding: 0;
