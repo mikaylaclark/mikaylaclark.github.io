@@ -54,6 +54,8 @@ p {
 .footer {
        background-color: #c5afbe;
        padding: 40px;
+       bottom: 0; 
+       left: 0;
        width: 100%;
        color: white;
        text-align: center;
