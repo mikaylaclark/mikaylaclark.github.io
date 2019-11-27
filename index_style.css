@@ -52,9 +52,8 @@ p {
 }
 
 .footer {
-       position: fixed;
        background-color: #8d6d83;
-       padding: 20px;
+       padding: 40px;
        width: 100%;
        color: white;
        text-align: center;
