@@ -32,7 +32,23 @@ li a:hover {
 }
 
 h1 {
-text-align: center;
-color: black;
-font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+   text-align: center;
+   color: black;
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+h2 { 
+   text-align: center;
+   color: #b893ad;
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+   font-size: 2em;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+.image {
+       text-align: center;
 }
