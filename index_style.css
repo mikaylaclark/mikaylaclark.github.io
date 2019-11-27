@@ -51,7 +51,7 @@ p {
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
 
-.footer {
+footer {
        position: fixed;
        background-color: #8d6d83;
        left: 0;
@@ -59,4 +59,5 @@ p {
        width: 100%;
        color: white;
        text-align: center;
+       font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
 }
