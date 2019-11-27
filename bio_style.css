@@ -47,3 +47,16 @@ img {
     border-radius: 8px;
     padding: 5px;
 }
+
+p {
+   text-align: center;
+   color: black;
+   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+   font-size: 2em;
+}
+
+a {
+  color: #b893ad;
+  font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+  font-size: 2em;
+}
